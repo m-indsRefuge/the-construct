@@ -1,1 +1,1 @@
-"""Live observation layer."""
+"""The Construct terminal Observatory."""

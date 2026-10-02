@@ -23,3 +23,7 @@ World Zero:
 - computational contracts
 - resource system
 - live Textual observatory
+
+## Observatory
+
+Subsystem 4 provides a Textual terminal view over Wolfram-authored World Zero frames. See [docs/OBSERVATORY.md](docs/OBSERVATORY.md) for Windows launch instructions and controls. Wolfram remains authoritative for simulation state and ecology.
