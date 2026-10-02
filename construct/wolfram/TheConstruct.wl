@@ -15,3 +15,12 @@ Get[
         }
     ]
 ];
+
+Get[
+    FileNameJoin[
+        {
+            DirectoryName[$InputFileName],
+            "Environment.wl"
+        }
+    ]
+];
